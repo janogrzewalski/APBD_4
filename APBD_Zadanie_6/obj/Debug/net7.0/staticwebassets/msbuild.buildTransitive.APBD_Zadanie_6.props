@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\APBD_Zadanie_6.props" />
+</Project>
